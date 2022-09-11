@@ -26,6 +26,8 @@ Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ...
 
 Call it whatever you like! tgcf can fulfill your custom needs.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 The *key features* are:
 
 1. Forward messages as "forwarded" or
